@@ -217,7 +217,7 @@ Link: https://codepen.io/designcouch/pen/Atyop*/
 
 /*FOOTER - START*/
 .footer {
-    position: absolute;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -233,7 +233,7 @@ Link: https://codepen.io/designcouch/pen/Atyop*/
 /*https://www.w3schools.com/howto/howto_css_fixed_footer.asp*/
 
 .ig {
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 8%;
     padding-left: 80%;
@@ -245,7 +245,7 @@ Link: https://codepen.io/designcouch/pen/Atyop*/
 }
 
 .fb {
-    position: absolute;
+    position: relative;
     bottom: 0;
     width: 8%;
     padding-left: 70%;
@@ -509,7 +509,7 @@ wrapper > img {
     /*FOOTER*/
 
     .footer {
-        position: absolute;
+        position: relative;
         left: 0;
         bottom: 0;
         width: 100%;
@@ -522,25 +522,25 @@ wrapper > img {
     /*https://www.w3schools.com/howto/howto_css_fixed_footer.asp*/
 
     .ig {
-        position: absolute;
+        position: relative;
         bottom: 0;
         width: 5%;
         padding-left: 80%;
         margin: 5%;
         display: inline-block;
-        margin-bottom: -17%;
+        margin-bottom: -16%;
 
 
     }
 
     .fb {
-        position: absolute;
+        position: relative;
         bottom: 0;
         width: 5%;
         padding-left: 70%;
         margin: 5%;
         display: inline-block;
-        margin-bottom: -17%;
+        margin-bottom: -15%;
     }
 
     /*KONTAKT OS SIDE*/
